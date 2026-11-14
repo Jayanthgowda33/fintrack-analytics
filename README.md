@@ -1,4 +1,4 @@
-# FinTrack — Multi-Tenant Expense Analytics Platform
+x# FinTrack — Multi-Tenant Expense Analytics Platform
 
 A full-stack financial analytics application that lets users track income/expenses manually or via bulk file upload (CSV/Excel), with real-time dashboards and visualizations.
 
